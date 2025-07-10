@@ -1,0 +1,9 @@
+Flask
+Bootstrap-Flask
+Flask-SQLAlchemy
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+Werkzeug
